@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Goodbye world!");
         System.out.println(productFormatter(" Esto es un nombre ", "  31/05/2022  "));
 
         /*
